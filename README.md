@@ -7,21 +7,15 @@
 - 🤝  Connect with me on LinkedIn and Email
 - 💬  I like to talk about new ideas
 
-<br />
-
 ## 👩 About Me 
 
 I am a fan of books and sports. I am a front-end developer who is passionate about creating applications to create technology to improve people and society. I spend most of my time coding, reading, learning and listening to music. I am always looking for new ideas for work and welcome challenges.
-
-<br />
 
 ## 🌐 Socials
 
 <a href="https://www.linkedin.com/in/zahra-alipour-bb47b21a9/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/zahraei1376">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="mailto:zahra0a1418@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-<br />
 
 ## 📄 Tech Stack
 
@@ -44,7 +38,6 @@ I am a fan of books and sports. I am a front-end developer who is passionate abo
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-<br />
 
 <!-- ## 📊 GitHub Stats
 
