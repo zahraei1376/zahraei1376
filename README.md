@@ -3,7 +3,7 @@
 ## 💻 I am trying to be a programmer 
 
 - 🏢  I'm currently working at Saminray comany
-- 💻  I'm a Fronend developer with React
+- 💻  I'm a Frontend developer with React
 - 🤝  Connect with me on LinkedIn and Email
 - 💬  I like to talk about new ideas
 
