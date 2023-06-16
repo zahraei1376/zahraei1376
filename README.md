@@ -1,11 +1,11 @@
 # 👋 Hi! I'm Zahra 
 
-## 💻 I am trying to be a programmer 
+## 💻 I am trying to be a better programmer 
 
-- 🏢  I'm currently working at Saminray comany
-- 💻  I'm a Frontend developer with React
-- 🤝  Connect with me on LinkedIn and Email
-- 💬  I like to talk about new ideas
+- 🏢  I'm currently working at Saminray company.
+- 💻  I'm a Frontend developer with React.
+- 🤝  Connect with me on LinkedIn and Email.
+- 💬  I like to talk about new ideas.
 
 ## 👩 About Me 
 
